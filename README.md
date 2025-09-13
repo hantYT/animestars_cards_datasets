@@ -8,9 +8,10 @@
 
 ## Где брать датасеты?
 
-Все актуальные базы данных доступны в релизах GitHub:
+Все актуальные базы данных доступны в релизах GitHub либо в ветке в формате JSON:
 
-### [**Скачать последние данные**](https://github.com/hantYT/animestars_cards_datasets/releases/)
+### [**Релизы (.db + JSON)**](https://github.com/hantYT/animestars_cards_datasets/releases/)
+### [**Ветка (JSON only)**](https://github.com/hantYT/animestars_cards_datasets/tree/main/databases)
 
 
 ## Структура данных
